@@ -34,4 +34,4 @@ cat dumpTruck2.log  | grep  -i 'getVehicleList params clientId=wipi'
  
 grep  -i 'getVehicleList params clientId=wipi' dumpTruck2.log  
 
-查看linux crontab执行的日志	/var/log/cron
+查看linux crontab执行的日志	/var/log/cron   var
