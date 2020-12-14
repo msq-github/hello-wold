@@ -1,0 +1,37 @@
+
+/home/ntc/server/apache-tomcat-9.0.39/webapps/DumpTruck2/WEB-INF/classes/com/jst/dumpTruck2/web
+
+cd /home/ntc/server/apache-tomcat-9.0.39/webapps/qtdPassControl/WEB-INF/classes/com/jst/qtd/action
+
+/home/ntc/server/apache-tomcat-9.0.36
+
+1450cea42463b9b36f683658f8ba3751337f87d5e45b62c40847c245cf3e33ca
+
+http://150.100.17.22:8094/scqd/login/unifiedLogin.do?paramString=cseaUBx/hRYZWV2TEIyDPQ7th8ZhA1lbGWb/KMp6AkMv/c9JGloMhTP6bb7R/Sf50JpkV97IiXGu
+fypGqw2EKykgklD20a1AvgQbWo6qf8Tb7J9TCvCFM3LK/fvUULqAkmudrQmJeEeAqoIowsEZrdPl
+IwSLt0uDoc91NQzwAxsCPGHsMxsJa8VwgY1IF+MwDcZVoJVpJbQMfiKHJXDLcw==
+
+
+ 
+登录账号：xqyh_baoan SZbaoan@2020        大铲湾一期: dcw1_qtd  test123!
+弃土预约小程序账号密码
+hydjz_test
+ test1234!@#$
+qtd_dcw1q
+qtd_dcw3q     弃土点
+qtd_bazhg   ABCDE12345@             SZbazhg@2020  
+qtdxqgl    弃土点辖去管理
+
+
+https://uia.jtys.sz.gov.cn/  深圳市交通运输局（港务管理局）政务服务平台  账号:liuqian 123456As szjstmsq2020 Msq****02
+
+137互通平台附件路径：
+/home/jp/uploadFiles/kindEditor/
+
+tail -1000f dumpTruck2.log  | grep 'getVehicleList params clientId=wipi' 
+
+cat dumpTruck2.log  | grep  -i 'getVehicleList params clientId=wipi'
+ 
+grep  -i 'getVehicleList params clientId=wipi' dumpTruck2.log  
+
+查看linux crontab执行的日志	/var/log/cron
