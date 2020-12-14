@@ -1,4 +1,4 @@
 this  is test git file   asd1111 2020
 
 
-uodate file
+update file1  note first time too push git 
